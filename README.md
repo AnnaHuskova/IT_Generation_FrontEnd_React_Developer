@@ -6,7 +6,7 @@ Notes for IT_Generation_FrontEnd_React_Developer_program
 -It is possible to write code in notebook 
 - File icon will change depends to file format
 
-##Мова розмітки - це інструмент
+## Мова розмітки - це інструмент
 - має версії (HTML5)
 `<!DOCTYPE html>` - вказує на використання HTML5
 
@@ -19,7 +19,15 @@ Notes for IT_Generation_FrontEnd_React_Developer_program
 </body>
 </html>
 
-##VS_Code
+### TAG 
+- Парні 
+- НЕ парні - ОДИНОЧНІ - <p></p>
+`<br>` - відступ з нової сторінки  
+`<hr>` - горизонтальна лінія 
+#### Atribute 
+'src` `alt`
+
+## VS_Code
 Tab - 4 gapes 
 
 
