@@ -6,6 +6,9 @@ Notes for IT_Generation_FrontEnd_React_Developer_program
 -It is possible to write code in notebook 
 - File icon will change depends to file format
 
+Мова розмітки - це інструмент
+- має версії (HTML5)
+
 
 
 
