@@ -25,10 +25,10 @@ Notes for IT_Generation_FrontEnd_React_Developer_program
 `<br>` - відступ з нової сторінки  
 `<hr>` - горизонтальна лінія 
 #### Atribute 
-'src` `alt`
+`src` `alt`
 
 ## VS_Code
-Tab - 4 gapes 
+Tab = 4 gapes 
 
 
 
