@@ -12,10 +12,10 @@ Notes for IT_Generation_FrontEnd_React_Developer_program
 
 `<html lang="en">` 
 <head>
-    <meta charset="UTF-8"> - 'задає кодування' 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"> - 'назва вкладенки' 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    '<meta charset="UTF-8">' - 'задає кодування' 
+   '<meta http-equiv="X-UA-Compatible" content="IE=edge">' - 'назва вкладенки' 
+    '<meta name="viewport" content="width=device-width, initial-scale=1.0">'
+    '<title>Document</title>' - 'назва вкладенки' 
 </head>
 <body> - 'контентна частина сторінки'
 </body>
