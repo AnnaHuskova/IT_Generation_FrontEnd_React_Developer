@@ -27,8 +27,8 @@ Notes for IT_Generation_FrontEnd_React_Developer_program
 #### Atribute 
 `src` `alt`
 - Path for file (image) _
-_ *local_ 
-_ *Absolute_
+_ *local _ 
+_ *Absolute _
 
 
 
