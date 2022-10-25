@@ -26,6 +26,11 @@ Notes for IT_Generation_FrontEnd_React_Developer_program
 `<hr>` - горизонтальна лінія 
 #### Atribute 
 `src` `alt`
+- Path for file (image)
+*local_ 
+*absolute_
+
+
 
 ## VS_Code
 Tab = 4 gapes 
